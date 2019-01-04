@@ -1,0 +1,6 @@
+@-moz-document url(about:newtab),
+               url(about:home), url(about:blank) {
+				html {width:100%; height:100%; /*background: #303539 url('file:////home/mandalorian/Изображения/Wallpapres/Woman_of_Tree_by_LolosArt.jpg') center center no-repeat !important; background-size: cover;*/
+					background: repeating-linear-gradient(45deg, #303539, #303539 10px, #4E5257 10px, #4E5257 20px);
+			}
+}
