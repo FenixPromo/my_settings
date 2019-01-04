@@ -3,7 +3,7 @@
 Будет дополняться.
 
 
-###Например:
+### Например:
 * .bash_aliases -> ~/.bash_aliases
 * .conkyrc -> ~/.conkyrc
 * hddtemp.db - бeз ссылки, лежит в /usr/share/hddtemp/hddtemp.db
