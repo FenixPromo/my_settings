@@ -7,8 +7,10 @@
 + **.bash_aliases --->** ~/.bash_aliases (просто алиасы для баша) - *ссылка*
 + **.conkyrc --->** ~/.conkyrc (собсно конки) - *ссылка*
 + **hddtemp.db --->** лежит в /usr/share/hddtemp/hddtemp.db (пришлось добавить свой HDD в список) - *без ссылки*
-+ **userChrome.css --->** ~/.mozilla/firefox/account_name/chrome/userChrome.css (изменение внешнего вида файрфокса: перенос табов под строку адреса, добавление тенюшек под них, правка мелких косяков) - *ссылка*
-+ **userContent.css --->** ~/.mozilla/firefox/account_name/chrome/userContent.css (изменение внешнего вида сайтов открывающихся в фаерфоксе: добавление фона для about:newtab, about:home, about:blank) - *ссылка*
++ **firefox/userChrome.css --->** ~/.mozilla/firefox/account_name/chrome/userChrome.css (изменение внешнего вида файрфокса: перенос табов под строку адреса, добавление тенюшек под них, правка мелких косяков) - *ссылка*
++ **firefox/userContent.css --->** ~/.mozilla/firefox/account_name/chrome/userContent.css (изменение внешнего вида сайтов открывающихся в фаерфоксе: добавление фона для about:newtab, about:home, about:blank) - *ссылка*
++ **firefox/prefs.js --->** ~/.mozilla/firefox/account_name/prefs.js (настройки профиля) - *ссылка*
++ **firefox/xulstore.json --->** ~/.mozilla/firefox/account_name/xulstore.json (настройки тулбаров) - *без ссылки*
 + **autostart/auto_conky.sh --->** ~/.config/autostart-scripts/auto_conky.sh (автозапуск конки) - *ссылка*
 + **background.png --->** лежит в ~/.local/share/plasma/look-and-feel/theme-name/contents/splash/images/ (замена бэкграунда выбранному сплешскрину) - *без ссылки*
 + **FileZilla.xml --->** импортируется в FileZilla
