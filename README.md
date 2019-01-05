@@ -16,6 +16,8 @@
 + **xnviewmp/default.keys --->** ~/.config/xnviewmp/default.keys (настройки клавиш) - *ссылка*
 + **xnviewmp/XnView.db --->** ~/.config/xnviewmp/XnView.db (база для рейтингов, комментов и т.д.) - *ссылка*
 + **xnviewmp/xnview.ini --->** ~/.config/xnviewmp/xnview.ini (настройки программы) - *ссылка*
++ **vlc/vlc-qt-interface.conf --->** ~/.config/vlc/vlc-qt-interface.conf (интерфейс) - *ссылка*
++ **vlc/vlcrc --->** ~/.config/vlc/vlcrc (настройки) - *ссылка*
 
 -----
 *Будет дополняться.*
