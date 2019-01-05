@@ -93,7 +93,7 @@ Root $alignc ${fs_used /} / ${fs_size /} ${alignr}${fs_used_perc /}%
 ${fs_bar 8 /}
 Home $alignc ${fs_used /home} / ${fs_size /home} ${alignr} ${fs_used_perc /home}%
 ${fs_bar 10 /home} 
-IO: ${diskio /dev/sda} ${alignr}Температура: ${execi 300 "/usr/sbin/hddtemp /dev/sda | cut -c36-37"} °C
+Активность: ${diskio /dev/sda} ${alignr}Температура: ${execi 300 "/usr/sbin/hddtemp /dev/sda | cut -c36-37"} °C
 
 ${if_up wlo1}Загрузка: ${downspeed wlo1}${alignr}Закачка: ${upspeed wlo1}
 ${downspeedgraph wlo1 25,140 000000 ff0000} ${alignr}${upspeedgraph wlo1 25,140 000000 00ff00}
