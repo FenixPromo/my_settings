@@ -3,15 +3,13 @@
 
 
 ### Описание:
-```
 + **autostart/auto_conky.sh --->** ~/.config/autostart-scripts/auto_conky.sh (автозапуск конки) - *ссылка*
-```
-```
+---
 + **firefox/userChrome.css --->** ~/.mozilla/firefox/account_name/chrome/userChrome.css (изменение внешнего вида файрфокса: перенос табов под строку адреса, добавление тенюшек под них, правка мелких косяков) - *ссылка*
 + **firefox/userContent.css --->** ~/.mozilla/firefox/account_name/chrome/userContent.css (изменение внешнего вида сайтов открывающихся в фаерфоксе: добавление фона для about:newtab, about:home, about:blank) - *ссылка*
 + **firefox/prefs.js --->** ~/.mozilla/firefox/account_name/prefs.js (настройки профиля) - *ссылка*
 + **firefox/xulstore.json --->** ~/.mozilla/firefox/account_name/xulstore.json (настройки тулбаров) - *без ссылки*
-```
+---
 + **vlc/vlc-qt-interface.conf --->** ~/.config/vlc/vlc-qt-interface.conf (интерфейс) - *ссылка*
 + **vlc/vlcrc --->** ~/.config/vlc/vlcrc (настройки) - *ссылка*
 ---
