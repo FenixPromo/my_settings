@@ -4,8 +4,7 @@
 
 ### Описание:
 + **autostart/auto_conky.sh --->** ~/.config/autostart-scripts/auto_conky.sh (автозапуск конки) - *ссылка*
-
-
+&nbsp;
 + **firefox/userChrome.css --->** ~/.mozilla/firefox/account_name/chrome/userChrome.css (изменение внешнего вида файрфокса: перенос табов под строку адреса, добавление тенюшек под них, правка мелких косяков) - *ссылка*
 + **firefox/userContent.css --->** ~/.mozilla/firefox/account_name/chrome/userContent.css (изменение внешнего вида сайтов открывающихся в фаерфоксе: добавление фона для about:newtab, about:home, about:blank) - *ссылка*
 + **firefox/prefs.js --->** ~/.mozilla/firefox/account_name/prefs.js (настройки профиля) - *ссылка*
