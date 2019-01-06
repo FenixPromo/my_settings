@@ -10,6 +10,9 @@
 + **firefox/prefs.js --->** ~/.mozilla/firefox/account_name/prefs.js (настройки профиля) - *ссылка*
 + **firefox/xulstore.json --->** ~/.mozilla/firefox/account_name/xulstore.json (настройки тулбаров) - *без ссылки*
 ---
++ **qbittorent/qBittorrent-data.conf --->** ~/.config/qBittorrent/qBittorrent-data.conf (настройки) - *без ссылки*
++ **qbittorent/qBittorrent.conf --->** ~/.config/qBittorrent/qBittorrent.conf (настройки профиля) - *без ссылки*
+---
 + **vlc/vlc-qt-interface.conf --->** ~/.config/vlc/vlc-qt-interface.conf (интерфейс) - *ссылка*
 + **vlc/vlcrc --->** ~/.config/vlc/vlcrc (настройки) - *ссылка*
 ---

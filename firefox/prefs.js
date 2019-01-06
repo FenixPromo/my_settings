@@ -16,7 +16,7 @@ user_pref("app.normandy.startupRolloutPrefs.extensions.fxmonitor.enabled", true)
 user_pref("app.normandy.user_id", "fccd091c-3419-4be3-82e0-da9a5dc1afd9");
 user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1546796770);
 user_pref("app.update.lastUpdateTime.blocklist-background-update-timer", 1546796890);
-user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1546797669);
+user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1546801269);
 user_pref("app.update.lastUpdateTime.recipe-client-addon-run", 1545754805);
 user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1546797549);
 user_pref("app.update.lastUpdateTime.services-settings-poll-changes", 1546796650);
