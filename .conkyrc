@@ -95,9 +95,9 @@ Home $alignc ${fs_used /home} / ${fs_size /home} ${alignr} ${fs_used_perc /home}
 ${fs_bar 10 /home} 
 Активность: ${diskio /dev/sda} ${alignr}Температура: ${execi 300 "/usr/sbin/hddtemp /dev/sda | cut -c36-37"} °C
 
-${if_up wlo1}Загрузка: ${downspeed wlo1}${alignr}Закачка: ${upspeed wlo1}
+${if_up wlo1}Загрузка: ${downspeed wlo1}${alignr}Отдача: ${upspeed wlo1}
 ${downspeedgraph wlo1 25,140 000000 ff0000} ${alignr}${upspeedgraph wlo1 25,140 000000 00ff00}
 Всего: ${totaldown wlo1} $color${alignr}Всего: ${totalup wlo1}
-${else}Загрузка: ${downspeed eno1}${alignr}Закачка: ${upspeed eno1}
+${else}Загрузка: ${downspeed eno1}${alignr}Отдача: ${upspeed eno1}
 ${downspeedgraph eno1 25,140 000000 ff0000} ${alignr}${upspeedgraph eno1 25,140 000000 00ff00}
 Всего: ${totaldown eno1} $color${alignr}Всего: ${totalup eno1}${endif}]];
