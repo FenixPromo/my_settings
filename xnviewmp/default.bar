@@ -42,6 +42,7 @@ cmd_adjustM
 cmd_changeDepth
 cmd_shadow
 cmd_showGrid
+cmd_animation
 _separator_
 cmd_rotate270
 cmd_rotate90
