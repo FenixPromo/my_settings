@@ -121,6 +121,7 @@ kaccounts-providers
 kamera
 kate
 kcalc
+kchmviewer
 kde-gtk-config
 kde-servicemenus-rootactions
 kdeconnect
