@@ -10,6 +10,9 @@
 + **firefox/prefs.js --->** ~/.mozilla/firefox/account_name/prefs.js (настройки профиля) - *ссылка*
 + **firefox/xulstore.json --->** ~/.mozilla/firefox/account_name/xulstore.json (настройки тулбаров) - *без ссылки*
 ---
++ **packages/pkg_list.txt --->** список офф пакетов (sudo pacman -S --needed $(< pkg_list.txt))
++ **packages/pkg_list_aur.txt --->** список aur пакетов (sudo pacman -S --needed $(< pkg_list_aur.txt))
+---
 + **qbittorent/qBittorrent-data.conf --->** ~/.config/qBittorrent/qBittorrent-data.conf (настройки) - *без ссылки*
 + **qbittorent/qBittorrent.conf --->** ~/.config/qBittorrent/qBittorrent.conf (настройки профиля) - *без ссылки*
 ---
